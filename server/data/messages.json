@@ -1,0 +1,72 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "Hy8ZG9r4t",
+    "from": "alice",
+    "text": "hello"
+  },
+  {
+    "id": "H1atf5rVF",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "SkOQmqB4K",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "ByZ5L9S4F",
+    "from": "bob",
+    "text": "hi alice"
+  },
+  {
+    "id": "HJBmP5HEY",
+    "from": "alice",
+    "text": "hi bob"
+  },
+  {
+    "id": "HyNSHnrVF",
+    "from": "bob",
+    "text": "hezzo"
+  },
+  {
+    "id": "BkpIBnrNt",
+    "from": "bob",
+    "text": "hkko"
+  },
+  {
+    "id": "rk3DS3BVY",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "BkuSPnSVt",
+    "from": "bob",
+    "text": "nice"
+  },
+  {
+    "id": "SkJnw3BVK",
+    "from": "bob",
+    "text": "good"
+  },
+  {
+    "id": "Syn2D2rEY",
+    "from": "alice",
+    "text": "job"
+  },
+  {
+    "id": "Hyb0D2rNK",
+    "from": "alice",
+    "text": "nicexu"
+  },
+  {
+    "id": "Sy11_nr4Y",
+    "from": "alice",
+    "text": "hdo"
+  }
+]
